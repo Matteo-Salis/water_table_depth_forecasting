@@ -1,0 +1,1 @@
+For each sensor 10 members are trained per model type. In each folder you can find the trained model

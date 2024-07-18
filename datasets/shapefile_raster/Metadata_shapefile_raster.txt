@@ -1,0 +1,5 @@
+Ambiti_Amministrativi-Province: shapefiles of boundaries of the Piemonte Region and provinces
+
+BAC_01_bacimedi: shapefiles of Piemonte's catchments
+
+DTMPiemonte_filled_10m: Piemonte DTM raster
